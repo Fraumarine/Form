@@ -1,0 +1,90 @@
+.hai:link {
+  color: rgb(29, 99, 39);
+}
+
+.hai:hover {
+    color: rgb(0, 180, 33);
+    font-size: 30px;
+}
+
+.hai:active {
+    font-style: italic;
+}
+
+a{
+    color: rgb(60, 91, 6);
+}
+
+li:first-child a{
+color: darkslategray;
+}
+
+li:last-child a{
+    color: rgb(55, 111, 0);
+}
+
+li:nth-child(4) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(1) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(2) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(3) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(5) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(6) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(7) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(8) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(9) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+li:nth-child(10) a:hover{
+    color: cyan;
+    font-weight: bold;
+}
+
+p:first-of-type{
+    color: rgb(6, 87, 0);
+}
+
+p:last-of-type{
+    color: darkolivegreen;
+}
+
+body{
+    background: beige;
+    color: rgb(92, 52, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
